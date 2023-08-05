@@ -15,4 +15,3 @@ I am interested in software.
 
 ### 🗣 Contact Me
 
-<a href=”https://www.linkedin.com/in/burakceliloglu/"><img align=”left” src=”https://raw.githubusercontent.com/burakceliloglu/images/blob/master/Instagram_logo_2022.svg.png" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
